@@ -1,4 +1,5 @@
- 
+ #!bin/bash
+
  mkdir /etc/snort
  mkdir /etc/snort/preproc_rules
  mkdir /etc/snort/rules
